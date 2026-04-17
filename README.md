@@ -1,7 +1,7 @@
 # Financial Analytics – Profit & Margin Analysis  
 
-## Aperçu  
-![Dashboard](images/dashboard1.png)
+
+<img width="1263" height="698" alt="Capture d&#39;écran 2026-04-17 150434" src="https://github.com/user-attachments/assets/5b1a0cfa-12a6-4803-9091-c89e23e16b15" />
 
 ---
 
